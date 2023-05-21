@@ -1,9 +1,9 @@
 {
   "products": [
-    {"name": "JAVA FOR BEGGINERS GUIDE", "price": "20000₩", "imgsrc" : "java1.png", "category" : "Java"},
-    {"name": "Core and Advanced Java", "price": "25000₩", "imgsrc" : "java2.png", "category" : "Java"},
-    {"name": "A Textbook of Java Programming", "price": "30000₩", "imgsrc" : "java3.png", "category" : "Java"},
-    {"name": "The Complete Reference Java", "price": "15000₩", "imgsrc" : "java4.png", "category" : "Java"},
+    {"name": "JAVA FOR BEGGINERS GUIDE", "price": "20000", "imgsrc" : "java1.png", "category" : "Java"},
+    {"name": "Core and Advanced Java", "price": "25000", "imgsrc" : "java2.png", "category" : "Java"},
+    {"name": "A Textbook of Java Programming", "price": "30000", "imgsrc" : "java3.png", "category" : "Java"},
+    {"name": "The Complete Reference Java", "price": "15000", "imgsrc" : "java4.png", "category" : "Java"},
     {"name": "C++1", "price": "25000₩", "imgsrc" : "c++1.png", "category" : "C++"},
     {"name": "C++2", "price": "27000₩", "imgsrc" : "c++2.png", "category" : "C++"},
     {"name": "C++3", "price": "29000₩", "imgsrc" : "c++3.png", "category" : "C++"},
