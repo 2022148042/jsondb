@@ -1,16 +1,16 @@
 {
   "products": [
     {"name": "Java1", "price": "20000", "imgsrc" : "java1.png"},
-    {"name": "Java2", "price": "20000", "imgsrc" : "java2.png"},
-    {"name": "Java3", "price": "20000", "imgsrc" : "java3.png"},
-    {"name": "Java4", "price": "20000", "imgsrc" : "java4.png"},
-    {"name": "C++1", "price": "20000", "imgsrc" : "c++1.png"},
-    {"name": "C++2", "price": "20000", "imgsrc" : "c++2.png"},
-    {"name": "C++3", "price": "20000", "imgsrc" : "c++3.png"},
-    {"name": "C++4", "price": "20000", "imgsrc" : "c++4.png"},
-    {"name": "Python1", "price": "20000", "imgsrc" : "python1.png"},
-    {"name": "Python2", "price": "20000", "imgsrc" : "python2.png"},
-    {"name": "Python3", "price": "20000", "imgsrc" : "python3.png"},
-    {"name": "Python4", "price": "20000", "imgsrc" : "python4.png"}
+    {"name": "Java2", "price": "25000", "imgsrc" : "java2.png"},
+    {"name": "Java3", "price": "30000", "imgsrc" : "java3.png"},
+    {"name": "Java4", "price": "15000", "imgsrc" : "java4.png"},
+    {"name": "C++1", "price": "25000", "imgsrc" : "c++1.png"},
+    {"name": "C++2", "price": "27000", "imgsrc" : "c++2.png"},
+    {"name": "C++3", "price": "29000", "imgsrc" : "c++3.png"},
+    {"name": "C++4", "price": "31000", "imgsrc" : "c++4.png"},
+    {"name": "Python1", "price": "19000", "imgsrc" : "python1.png"},
+    {"name": "Python2", "price": "26000", "imgsrc" : "python2.png"},
+    {"name": "Python3", "price": "35000", "imgsrc" : "python3.png"},
+    {"name": "Python4", "price": "28000", "imgsrc" : "python4.png"}
   ]
 }
